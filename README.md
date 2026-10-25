@@ -1,6 +1,6 @@
 # Predicting Student Academic Performance
 
-A machine-learning group project for **WQD7003 Data Analytics** that explores academic, demographic, and behavioural factors associated with student exam scores. The project is framed around a fictional private tuition-centre stakeholder, *EdTech*, which wants to understand performance drivers and support students who may be at risk of underperforming.
+A machine-learning group project that explores academic, demographic, and behavioural factors associated with student exam scores. The project is framed around a fictional private tuition-centre stakeholder, *EdTech*, which wants to understand performance drivers and support students who may be at risk of underperforming.
 
 > **Scope of my contribution:** Data modelling — preprocessing pipelines, regression model comparison, cross-validation, hyperparameter tuning, evaluation, and model interpretation.
 
